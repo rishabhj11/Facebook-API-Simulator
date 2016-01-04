@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SBT: org.fusesource.leveldbjni:leveldbjni-osx:1.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Applications/activator-dist-1.3.6/repository/org.fusesource.leveldbjni/leveldbjni-osx/1.5/jars/leveldbjni-osx.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.fusesource.leveldbjni/leveldbjni-osx/jars/leveldbjni-osx-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
